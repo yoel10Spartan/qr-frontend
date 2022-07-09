@@ -1,0 +1,3 @@
+.swal2-container.swal2-bottom, .swal2-container.swal2-center, .swal2-container.swal2-top {
+    z-index: 10000;
+}
